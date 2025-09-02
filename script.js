@@ -9,4 +9,3 @@ git commit -m "Delete script.js"
 
 # push changes to GitHub
 git push origin main
-
